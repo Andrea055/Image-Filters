@@ -118,5 +118,5 @@ async def cool(ctx):
     vntg.start('nocool.png')
     await ctx.send('Vintage!', file=discord.File('Cool_version.jpg'))
 		
-client.run('ODQ1MzYzNDQ1Nzk2NzAwMTgw.YKf4Dw.CJpuSnhSAyYFW4hg08eCOt-GJMw')
+client.run('TOKEN')
 		
