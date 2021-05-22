@@ -81,5 +81,5 @@ async def vintage(ctx):
     vntg.start('novintage.png')
     await ctx.send('Vintage!', file=discord.File('Vintage_version.jpg'))
 		
-client.run('ODQ1MzYzNDQ1Nzk2NzAwMTgw.YKf4Dw.cOFEzcwoZGEXeV0MuLq6P0MLgx0')
+client.run('TOKEN')
 		
